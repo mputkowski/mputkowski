@@ -20,9 +20,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mputkowski)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9210502) 
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mputkowski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mputkowski&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mputkowski&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
